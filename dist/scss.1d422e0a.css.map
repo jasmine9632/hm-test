@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\scss\\index.scss"],"names":[],"mappings":"AAEA,KACI,sBACA,QACI,WAEJ,OACI,cAAA,CACA","file":"scss.1d422e0a.css","sourceRoot":"..","sourcesContent":["$color:#ff3;\r\n$color2:green;\r\nbody {\r\n    background-color: $color;\r\n    h1 {\r\n        color: white;\r\n    }\r\n    p {\r\n        font-size: 48px;\r\n        color: $color2;\r\n    }\r\n}"]}

@@ -1,0 +1,12 @@
+$color:#ff3;
+$color2:green;
+body {
+    background-color: $color;
+    h1 {
+        color: white;
+    }
+    p {
+        font-size: 48px;
+        color: $color2;
+    }
+}
